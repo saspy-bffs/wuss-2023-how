@@ -8,7 +8,7 @@
 
 Materials provided:
 
-  - [Examples and Exercises](https://colab.research.google.com/drive/1pUWa9zC96HpZqxHomN2hb_cnTeE0B4P8#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
+  - [Examples and Exercises](https://colab.research.google.com/drive/1hJRTGOAKKSbE9746mms8HTdrNAfV3SMG#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
 
 <!--  - [Solutions to all Exercises](https://colab.research.google.com/drive/1hJRTGOAKKSbE9746mms8HTdrNAfV3SMG#offline=true&sandboxMode=true) as an interactive Google Colab Notebook ->
 
