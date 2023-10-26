@@ -14,7 +14,7 @@ Materials provided:
 
 <!--  - [Solutions to all Exercises](solutions/Solutions-Everything_is_Better_with_Friends-Getting_Started.pdf) as a PDF file -->
 
-<!--  - [Slides](slides/Slides-Everything_Is_Better_With_Friends-PharmaSUG2022_HoT.pdf) as a PDF file -->
+  - [Slides](slides/Slides-Everything_Is_Better_With_Friends-WUSS2023.pdf) as a PDF file    
 
 
 ## Setup Instructions & Prerequisites
