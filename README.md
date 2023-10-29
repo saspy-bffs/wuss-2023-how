@@ -10,7 +10,7 @@ Materials provided:
 
   - [Examples and Exercises](https://colab.research.google.com/drive/1hJRTGOAKKSbE9746mms8HTdrNAfV3SMG#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
 
-<!--  - [Solutions to all Exercises](https://colab.research.google.com/drive/1hJRTGOAKKSbE9746mms8HTdrNAfV3SMG#offline=true&sandboxMode=true) as an interactive Google Colab Notebook ->
+  - [Solutions to all Exercises](https://colab.research.google.com/drive/1h3YjueG9YZfh5QIl0w2k3Rab5A59NVhd#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
 
 <!--  - [Solutions to all Exercises](solutions/Solutions-Everything_is_Better_with_Friends-Getting_Started.pdf) as a PDF file -->
 
