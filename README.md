@@ -4,7 +4,7 @@
 # Everything is Better with Friends: Using SAS in Python Applications with SASPy and Open-Source Tooling (Getting Started)
 
 
-### Materials from a Hands-on Workshop at [Western Users of SAS Software (WUSS)](https://www.wuss.org/us/) in San Diego, California, on 31OCT2023.
+### Materials from a Hands-on Workshop at [Western Users of SAS Software (WUSS)](https://www.wuss.org/) in San Diego, California, on 31OCT2023.
 
 Materials provided:
 
@@ -32,7 +32,7 @@ In order to interact with code examples, accounts for the following two online s
   - If you don't already have an ODA account, you can create one for free at [https://welcome.oda.sas.com/](https://welcome.oda.sas.com/)
   - Note: To create an ODA account, you will also need a SAS Profile account. If you don't already have a SAS Profile account, you can create one for free using the "Don't have a SAS Profile?" link on the ODA login page.
 
-To test your setup, please follow the instructions in our [Setup Test Colab Notebook](https://colab.research.google.com/drive/12KqxwnRm7IoFpShnD2UnhrJEP31KiGHD#offline=true&sandboxMode=true). If desired, you can use the __File__ -> __Save a Copy in Drive__ command to save a copy of the results.
+To test your setup, please follow the instructions in our [Setup Test Colab Notebook](https://colab.research.google.com/drive/1qtnXrOmAYAlulrtUPrnJ-7KfVGXEmcws#offline=true&sandboxMode=true). If desired, you can use the __File__ -> __Save a Copy in Drive__ command to save a copy of the results.
 
 All in-class examples assume the use of Google Colab and ODA, and we will not be able to provide support for any other setup. However, if you're interested in using a local SASPy environment, with Python talking to a commercial SAS installation, you're welcome to follow the setup instructions for the demo application [https://github.com/saspy-bffs/dataset-explorer](https://github.com/saspy-bffs/dataset-explorer)
 
